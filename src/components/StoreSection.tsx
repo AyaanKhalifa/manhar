@@ -1,4 +1,4 @@
-import { MapPin, Phone, Clock, MessageCircle, Navigation, ArrowRight } from 'lucide-react';
+import { MapPin, Phone, Clock, Navigation, ArrowRight } from 'lucide-react';
 import { storeInfo } from '../data/products';
 import { useReveal } from '../hooks/useAnimations';
 

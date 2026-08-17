@@ -1,4 +1,3 @@
-import { MessageCircle } from 'lucide-react';
 import { storeInfo } from '../data/products';
 
 export default function WhatsAppButton() {
